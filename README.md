@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deyan-Parvanov
-- 👀 I’m interested in Python projects.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on knowledge sharing sessions and Python projects for beginners.
+- 👀 I’m interested in Python and JavaScript projects.
+- 🌱 I’m currently learning Python and JavaScript.
+- 💞️ I’m looking to collaborate on knowledge sharing sessions and Python and JavaScript projects for beginners.
 - 📫 How to reach me? - deyan.parvanov@gmail.com
 
 <!---
