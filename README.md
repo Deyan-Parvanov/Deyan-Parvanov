@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deyan-Parvanov
-- 👀 I’m interested in Python, JavaScript and PHP projects.
+- 👀 I’m interested in PHP, Laravel, Python, JavaScript.
 - 🌱 I’m currently working as PHP Developer, but I am also interested in Python and JavaScript.
 - 💞️ I’m looking to collaborate on knowledge sharing sessions related to PHP, Python and JavaScript projects.
 - 📫 How to reach me? - deyan.parvanov@gmail.com
